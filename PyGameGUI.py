@@ -264,8 +264,8 @@ vBList = [box1]
 
 # PopUp appension
 
-# BE ABLE TO CLICK ONLY WHEN GUI EDITOR IS ENABLED!!!
- 
+# BE ABLE TO CLICK ONLY WHEN GUI EDITOR IS DISABLED!!!
+
 while True:
 
     checkEvents()
